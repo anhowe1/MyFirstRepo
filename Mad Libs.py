@@ -46,5 +46,5 @@ print("A new and " + adjective1 + " fairy princess movie is coming out soon!It w
       + ingverb1 + " in their "
       + pluralnoun1 + ". But the queen finds her and casts a "
       + adjective2 + " spell on her. The dwarfs take care of her until the "
-      + adjective3 + person1 + " comes to rescue her, and they all live "
+      + adjective3 +  person1 + " comes to rescue her, and they all live "
       + adjectively + " ever after!")
